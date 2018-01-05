@@ -1,9 +1,13 @@
 # pig-out-game
-modified version of Pig Out game called Hog
+Modified version of Pig Out game called Hog. Created for computer science sixty-one A at Berkeley!
 
-Created for computer science sixty-one A at Berkeley!
+Run the game by starting the GUI:
+python3 hog_gui.py
 
-Here are the rules:
+Also, the game has some rudimentary AI that has a strategy. The winrate was about 60%. run it here:
+python3 hog.py -r
+
+Here are the rules, taken from the course website:
 
 In Hog, two players alternate turns trying to be the first to end a turn with at least 100 total points. 
 On each turn, the current player chooses some number of dice to roll, up to 10. That player's score for 
