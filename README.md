@@ -2,9 +2,11 @@
 Modified version of Pig Out game called Hog. Created for computer science sixty-one A at Berkeley!
 
 Run the game by starting the GUI:
+
 python3 hog_gui.py
 
 Also, the game has some rudimentary AI that has a strategy. The winrate was about 60%. run it here:
+
 python3 hog.py -r
 
 Here are the rules, taken from the course website:
